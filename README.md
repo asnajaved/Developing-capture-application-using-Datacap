@@ -1,1 +1,1 @@
-# Developing-capture-application-using-Datacap
+# Developing Capture Application Using Datacap Studio
